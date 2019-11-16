@@ -1,0 +1,27 @@
+language: r
+os: linux
+dist: xenial
+latex: false
+
+branches:
+  only:
+    - master
+
+cache:
+  packages: yes
+  directories:
+    - $HOME/bin
+
+script:
+  - Rscript -e 'blogdown::install_hugo()'
+  - Rscript -e 'blogdown::build_site()'
+
+deploy:
+  provider: pages:git
+  token: $GITHUB_TOKEN
+  edge: true
+  on:
+    branch: master
+  local_dir: public
+  repo: tony-stone/tony-stone.github.io
+  target_branch: master
