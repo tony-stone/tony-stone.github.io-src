@@ -1,0 +1,23 @@
+---
+title: 'Hello World!'
+author: Tony Stone
+date: '2019-11-16'
+slug: hello-world
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+
+```{r}
+
+x <- 1:100
+y <- x^2 + 4*x + 10
+
+plot(x ~ y)
+
+```
+
+

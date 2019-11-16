@@ -34,10 +34,13 @@ education: []
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # Or use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/tony-stone
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-0167-3800
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -54,6 +57,6 @@ email: ""
 # - Visitors
 ---
 
-My research is focused on emergency care services, especially identifying measures to monitor performance and evaluate changes to services.
+My research is focused on unscheduled care services, especially identifying measures to monitor performance and evaluate changes to services.
 
 I previously supported work on the appraisal of alcohol policies through decision modelling, with a particular focus on specialist alcohol treatment services.
