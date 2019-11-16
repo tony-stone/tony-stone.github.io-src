@@ -2,7 +2,7 @@ title = "Tony Stone || tony-stone"
 baseurl = "https://tony-stone.github.io/"
 copyright = "&copy; Tony Stone {year}."
 
-theme = "academic"
+theme = "hugo-academic"
 enableGitInfo = false
 defaultContentLanguage = "en-gb"
 hasCJKLanguage = false
