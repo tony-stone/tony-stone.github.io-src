@@ -1,42 +1,7 @@
-title = "Tony Stone || tony-stone"
-baseurl = "https://tony-stone.github.io/"
-copyright = "&copy; Tony Stone {year}."
-
-theme = "hugo-academic"
-enableGitInfo = false
-defaultContentLanguage = "en-gb"
-hasCJKLanguage = false
-defaultContentLanguageInSubdir = false
-removePathAccents = true
-paginate = 10
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
-[outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
-
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
-
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
-
-[blackfriday]
-  hrefTargetBlank = true
-  angledQuotes = false
-  latexDashes = true
-  extensions = ["backslashLineBreak"]
-
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+# Academic Website Builder
+# https://sourcethemes.com/academic/
+#
+# The presence of this file is for compatibility with Blogdown and Forestry.
+# If you are not using those tools, this file may be deleted.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
