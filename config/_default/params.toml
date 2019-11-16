@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {building = "Regent Court", street = "Regent Street", city = "Sheffield", postcode = "S1 4DA", country = "United Kingdom", country_code = "GB"}
+address = {street = "Regent Street", city = "Sheffield", postcode = "S1 4DA", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -132,7 +132,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006-01-26"
+date_format = "2006-01-02"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04pm"
 
