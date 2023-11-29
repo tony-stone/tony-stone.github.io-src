@@ -14,16 +14,19 @@ role: ""
 
 # Organizations/Affiliations
 organizations:
-- name: ScHARR, University of Sheffield
-  url: https://www.sheffield.ac.uk/scharr/sections/hsr/cure/staff/stone_t
+- name: University of Sheffield
+  url: https://www.sheffield.ac.uk/smph/tony-stone
+- name: University College London
+  url: https://profiles.ucl.ac.uk/92864-tony-stone
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 interests:
-- Routine Data 
-- Health Informatics
-- Health &amp; Social Care Service Evaluations
+- Administrative / "real world" data
+- Record linkage / entity resolution
+- Quasi-experimental methods
+- Education, Health, and Social Care service evaluations
 
 education: []
 
@@ -57,6 +60,8 @@ email: ""
 # - Visitors
 ---
 
-My research is focused on unscheduled care services, especially identifying measures to monitor performance and evaluate changes to services.
+My research is focused on maximising the utility or real world data through record linkage and deriving robust evidence and actionable insights. 
+I work across education, health and social care domains, with extensive experience of unscheduled care and cancer services, especially in 
+identifying measures to monitor performance and evaluate changes to services.
 
 I previously supported work on the appraisal of alcohol policies through decision modelling, with a particular focus on specialist alcohol treatment services.
